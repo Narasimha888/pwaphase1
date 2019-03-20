@@ -1,0 +1,32 @@
+body{
+  background: #666600;
+}
+.main{
+background: #0080ff;
+display: flex;
+padding: 5%;
+text-align: center;
+border-radius: 1%;
+margin: 1%;
+box-shadow: 5px 5px 5px black;
+}
+.left{
+  background: #d98cd9;
+text-align: center;
+padding: 5%;
+margin: 1%;
+border-radius: 1%;
+box-shadow: 5px 5px 5px black;
+}
+.right
+{
+  background:  #ffffcc;
+  padding: 5%;
+  text-align: center;
+margin:1%;
+border-radius: 1%;
+box-shadow: 5px 5px 5px black;
+}
+table{
+  border:1px solid red ;
+}

@@ -1,0 +1,35 @@
+{
+  "basics":{
+  "img":"image/salmon.jpg",
+  "name":"narasimha",
+  "email":"narasimha888@gmail.com"
+},
+"career":{
+  "info":"i want to get a job in top companies and below are the details of my biodata"
+},
+"education":[{
+  "sno":"1",
+  "degree":"btech",
+  "institute":"mits",
+  "per":"75%"
+  },{"sno":"2",
+  "degree":"intermediate",
+  "institute":"narayana",
+  "per":"80%"},{
+    "sno":"3",
+    "degree":"ssc",
+    "institute":"svhs",
+    "per":"70%"
+    }],
+"skills":[
+      {
+        "info":"c"
+      },
+      {
+        "info":"c++"
+      },
+      {
+        "info":"java"
+      }
+    ]
+}
